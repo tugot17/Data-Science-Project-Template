@@ -1,3 +1,5 @@
+[![GitHub last commit](https://img.shields.io/github/last-commit/tugot17/Data-Science-Project-Template)](https://github.com/tugot17/Data-Science-Project-Template/)
+
 # Data-Science-Project-Templat
 Universal template for your datascience project. 
 
