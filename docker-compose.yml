@@ -1,6 +1,7 @@
 version: "3.8"
 services:
   notebooks:
+    container_name: data-science-project
     build: ./app
     ports:
       - "8001:8888"
