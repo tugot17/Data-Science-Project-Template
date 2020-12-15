@@ -1,5 +1,7 @@
-# Data-Science-Project-Template
-Universal template for your datascience project
+# Data-Science-Project-Templat
+Universal template for your datascience project. 
+
+As a backbone we use [scipy-notebook](https://hub.docker.com/r/jupyter/scipy-notebook) image, which probably aready contains the data-science package that you are interested in. 
 
 ## How to run it
 
@@ -8,10 +10,10 @@ Just run
 ```
 docker-compose up
 ```
-Then copy token from console, run `localhost:8001` with the copied token to access notebooks
+Then copy token from console and run `localhost:8001` with the copied token to access notebooks
 
 
-If u want to execute something on python scripts level, you can access the container by running
+If u want to execute something on python scripts level you can access the container by running
 
 ```
 docker exec -it data-science-project bash
