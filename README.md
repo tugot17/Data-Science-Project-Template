@@ -11,7 +11,7 @@ docker-compose up
 Then copy token from console, run `localhost:8001` with the copied token to access notebooks
 
 
-If u want to execute something on python scripts level, you can run the container by running
+If u want to execute something on python scripts level, you can access the container by running
 
 ```
 docker exec -it data-science-project bash
