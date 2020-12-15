@@ -3,4 +3,5 @@ my_awsome_dict = {
     2: "twooooooooooooooooo",
     3: "threeeeeeeeeeeeeeeeeeeeeeeeee",
     4: "fourrrrrrrrrrrrr",
-    5: "fourrrrrrrrrrrrr"}
+    5: "fourrrrrrrrrrrrr",
+}
