@@ -1,6 +1,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/tugot17/Data-Science-Project-Template)](https://github.com/tugot17/Data-Science-Project-Template/)
 
-# Data-Science-Project-Templat
+# Data-Science-Project-Template
 Universal template for your datascience project. 
 
 As a backbone we use [scipy-notebook](https://hub.docker.com/r/jupyter/scipy-notebook) image, which probably aready contains the data-science package that you are interested in. 
